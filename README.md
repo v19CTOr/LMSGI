@@ -1,2 +1,2 @@
-# mi-primer-repo
+# LMSGI
 Primer repositorio de ejemplo
